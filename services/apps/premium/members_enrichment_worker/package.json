@@ -20,8 +20,8 @@
     "@crowd/types": "workspace:*",
     "@temporalio/client": "~1.8.6",
     "@temporalio/workflow": "~1.8.6",
-    "axios": "~1.6.2",
-    "lodash": "~4.17.21",
+    "axios": "~0.30.3",
+    "lodash": "~4.17.23",
     "moment": "~2.29.4",
     "tsx": "^4.7.1",
     "typescript": "^5.2.2"
