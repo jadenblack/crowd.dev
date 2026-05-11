@@ -38,7 +38,7 @@
     "@vuelidate/core": "^2.0.1",
     "@vuelidate/validators": "^2.0.1",
     "@vueuse/core": "^9.13.0",
-    "axios": "^0.22.0",
+    "axios": "^1.16.0",
     "chart.js": "^3.9.1",
     "chartjs-adapter-moment": "^1.0.1",
     "chartjs-plugin-annotation": "^2.2.1",
@@ -113,6 +113,6 @@
     "typescript": "~5.0.4",
     "unplugin-auto-import": "^0.15.2",
     "unplugin-vue-components": "^0.24.1",
-    "wait-on": "^6.0.1"
+    "wait-on": "^9.0.10"
   }
 }
